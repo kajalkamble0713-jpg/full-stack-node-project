@@ -12,6 +12,7 @@ The project is designed to help learners understand **full-stack development** c
 ---
 
 ## Project Structure
+
 full-stack/
 ├── backend/
 │ ├── server.js # Node.js + Express REST API

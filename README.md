@@ -79,7 +79,6 @@ Add user authentication and validation
 
 Project Demo
 
-📽️ Watch the demo video: [Insert Link]
 🔗 GitHub Repository:https://github.com/kajalkamble0713-jpg/full-stack-node-project.git
 
 Author / Internship0
